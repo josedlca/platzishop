@@ -1,0 +1,33 @@
+
+.platzishop-encabezado,
+.info{
+    background-color: #99c84a;
+    color: white;
+
+}
+.navar-color{
+    background-color: #f7f7f9;
+}
+.login{
+    text-decoration: none;
+    color:white;
+}
+.boss-navegation{
+    padding:8px 0px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left:0;
+}
+.slider-boss{
+    padding-left:100px;
+}
+.slider-boss{
+    padding-right:100px;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon{
+    background-color: green;
+}
+.info h4{
+    margin:1em 0;
+}
